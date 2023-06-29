@@ -22,11 +22,13 @@ you can choose which llm you wanna use and just it. you are ready to go!
 3. Answer questions
 ## Demo
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./Nerd Demo.mp4">
-    <source src="./Nerd Demo.mp4" type="video/mp4">
+[<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="Nerd Demo.mp4">
+    <source src="Nerd Demo.mp4" type="video/mp4">
   </video>
-</figure>
+</figure>]
 
 
 
+## Aknowledgment
+All thanks to PrivateGPT as this project is simply a modification with interfacing :)
