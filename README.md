@@ -20,13 +20,11 @@ you can choose which llm you wanna use and just it. you are ready to go!
 1. Upload documents (.pdf, .docs, .txt)
 2. Choose between different llms
 3. Answer questions
+   
 ## Demo
 
-[<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="Nerd Demo.mp4">
-    <source src="Nerd Demo.mp4" type="video/mp4">
-  </video>
-</figure>]
+![Demo](https://github.com/dina-khalid/Nerd/blob/main/Nerd%20Demo)
+
 
 
 
