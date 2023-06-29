@@ -2,14 +2,6 @@
 Nerd is a tool where you can make it study any document and discuss the content with you!
 you can choose which llm you wanna use and just it. you are ready to go!
 
-
-## Table of Contents
-
-- [Built with](#Built-with)
-- [Deployment](#Deployment)
-- [Features](#Features)
-- [Demo](#Demo)
-
 ## Built with
 
 ![programming language](https://img.shields.io/badge/programmig%20language-Python-red)
