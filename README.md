@@ -23,7 +23,7 @@ you can choose which llm you wanna use and just it. you are ready to go!
    
 ## Demo
 
-![Demo](https://github.com/dina-khalid/Nerd/blob/main/Nerd%20Demo)
+https://github.com/dina-khalid/Nerd/assets/69371669/157e8577-dfaa-4cf8-90d7-b4f467ab876f
 
 
 
